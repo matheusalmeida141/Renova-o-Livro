@@ -8,6 +8,7 @@ Projeto constitui em um simples script que renovar os livros da unesp.
 # Como usar:
 1. Criar um arquivo .env;
 2. Colocar dentro do arquivo seu e-mail da Unesp e senha, da seguinte forma:
-   USERNAME = "seuemail@.com"
-   PASS = "senha1234"
-3. Usar nohup ou algo similar para deixar rodando.
+
+   - USERNAME = "seuemail@.com"
+   - PASS = "senha1234"
+4. Usar nohup ou algo similar para deixar rodando.
